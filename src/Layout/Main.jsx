@@ -7,10 +7,10 @@ function Main() {
   return (
     <>
       <Header />
-      <Outlet />;
+      <Outlet />
       <Footer />
     </>
-  );
+  )
 }
 
 export default Main;

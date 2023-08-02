@@ -5,7 +5,7 @@ import { Icon } from "@iconify/react";
 function Header() {
   return (
     <div>
-      <div className="container mx-auto flex justify-between items-center h-20">
+      <div className="container mx-auto flex justify-between items-center h-[75px]">
         <div>
           <Link to="/">
             <img src="/logo.png" />
